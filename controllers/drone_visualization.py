@@ -54,15 +54,15 @@ def update(frame):
         # LOAD CSV FILES
 
         t1, d1, data1 = compute_distance(
-            "exp_drone/exp_drone1_log.csv"
+            r"exp_drone/exp_drone1_log.csv"
         )
 
         t2, d2, data2 = compute_distance(
-            "exp_drone2/exp_drone2_log.csv"
+            r"exp_drone2/exp_drone2_log.csv"
         )
 
         t3, d3, data3 = compute_distance(
-            "relay_drone/relay_drone_log.csv"
+            r"relay_drone/relay_drone_log.csv"
         )
 
         # =====================================================

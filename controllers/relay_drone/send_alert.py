@@ -124,7 +124,7 @@ Immediate action required.
         # Use a Gmail APP PASSWORD here.
         server.login(
             sender_email,
-            "nnsl znbi uhne tmcl"
+            
         )
 
         server.send_message(msg)

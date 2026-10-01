@@ -103,8 +103,8 @@ Immediate action required.
 
     msg["Subject"] = "DRONE SWARM FIRE ALERT"
 
-    sender_email = "grandhidurgarao36@gmail.com"
-    target_email = "aishwaryapragada31@gmail.com"
+    sender_email = "sender@email.com"
+    target_email = "receiver@email.com"
 
     msg["From"] = sender_email
     msg["To"] = target_email
